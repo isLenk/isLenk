@@ -1,14 +1,13 @@
-### Introduction
-- I like to code. 😎
-- I like rocket league. 🚀
+```yaml
+title: Hobbyist Programmer. 😎
+since: Approx. 2014
+description: I technically learnt fullstack because I had no CS friends :c
 
-Thank you.
+origin: Somewhere deep in the Phillipines mountains... raised in Canada
 
-<hr>
-
-I'm proficient in the following languages:
-- English
-- Canadian
+languages: English
+skills: RL GC, a few coding languages
+```
 
 <!--
 **isLenk/isLenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
