@@ -1,4 +1,14 @@
-### Hi there 👋
+### Introduction
+- I like to code. 😎
+- I like rocket league. 🚀
+
+Thank you.
+
+<hr>
+
+I'm proficient in the following languages:
+- English
+- Canadian
 
 <!--
 **isLenk/isLenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
