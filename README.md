@@ -1,5 +1,8 @@
 
-
+<p align="center">
+  <img src="./TMM.gif"/> 
+ </p>
+ 
 ```yaml
 title: Hobbyist Programmer. 😎
 since: Approx. 2014
@@ -10,6 +13,8 @@ origin: Somewhere deep in the Phillipines mountains... raised in Canada
 languages: English
 skills: Rocket League GC, a few coding languages
 ```
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=islenk&show_icons=true&locale=en&layout=compact" alt="islenk" />
 </p>
