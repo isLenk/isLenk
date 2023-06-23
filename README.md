@@ -6,7 +6,7 @@
 ```yaml
 title: Hobbyist Programmer. 😎
 since: Approx. 2014
-description: Prototyped on Roblox before branching out. I technically learnt fullstack because I had no CS friends :c
+description: I like to make stuff
 
 origin: Somewhere deep in the Phillipines mountains... raised in Canada
 
